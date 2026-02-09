@@ -46,23 +46,23 @@ Power BI Desktop is free to download from the official Microsoft website:
 
 ---
 
-## 🧹 Data Cleaning & Assumptions  
-
+##  Data Cleaning & Assumptions  
+PUT ASSUMPTIONS AND CLEANING HERE 
 
 
 ---
 
-## 📊 Data Model  
+##  Data Model  
 
 This project uses a single-table model containing all book and sales information from the dataset.
 
 ---
 
-## 🔍 Insights & Findings  
+##  Insights & Findings  
 
 ---
 
-## 📁 Files in This Repository
+##  Files in This Repository
 - `Top100Books.pbix` — Power BI report  
 - `README.md` — documentation  
 - `/data` — raw or cleaned dataset (if included)  
@@ -70,5 +70,5 @@ This project uses a single-table model containing all book and sales information
 
 ---
 
-## 🙌 Notes & Contact
+##  Notes & Contact
 If you have questions or suggestions, feel free to reach out or open an issue.
