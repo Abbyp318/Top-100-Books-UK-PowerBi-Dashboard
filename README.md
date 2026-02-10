@@ -47,7 +47,10 @@ Power BI Desktop is free to download from the official Microsoft website:
 ---
 
 ##  Data Cleaning & Assumptions  
-PUT ASSUMPTIONS AND CLEANING HERE 
+1. Rearranged Titles
+2. Removed Empty rows 
+3. Rearranged titles into correct order 
+  
 
 
 ---
